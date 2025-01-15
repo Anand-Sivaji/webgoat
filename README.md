@@ -1,17 +1,1 @@
-# My Project
-
-A new project repository
-
-## Getting Started
-
-1. Clone the repository
-2. Install dependencies
-3. Run the project
-
-## Contributing
-
-Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
+IyBNeSBQcm9qZWN0CgpBIG5ldyBwcm9qZWN0IHJlcG9zaXRvcnkKCiMjIEdldHRpbmcgU3RhcnRlZAoKMS4gQ2xvbmUgdGhlIHJlcG9zaXRvcnkKMi4gSW5zdGFsbCBkZXBlbmRlbmNpZXMKMy4gUnVuIHRoZSBwcm9qZWN0CgojIyBDb250cmlidXRpbmcKClBsZWFzZSByZWFkIENPTlRSSUJVVElORy5tZCBmb3IgZGV0YWlscyBvbiBvdXIgY29kZSBvZiBjb25kdWN0IGFuZCB0aGUgcHJvY2VzcyBmb3Igc3VibWl0dGluZyBwdWxsIHJlcXVlc3RzLgoKIyMgTGljZW5zZQoKVGhpcyBwcm9qZWN0IGlzIGxpY2Vuc2VkIHVuZGVyIHRoZSBNSVQgTGljZW5zZSAtIHNlZSB0aGUgTElDRU5TRS5tZCBmaWxlIGZvciBkZXRhaWxz
